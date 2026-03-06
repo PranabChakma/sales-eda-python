@@ -1,4 +1,4 @@
-# Sales Data Exploratory Data Analysis (EDA)
+## Sales Data Exploratory Data Analysis (EDA)
 
 ## Project Overview
 This project performs Exploratory Data Analysis (EDA) on a sales dataset to identify trends and key profit drivers.
@@ -21,3 +21,4 @@ This project performs Exploratory Data Analysis (EDA) on a sales dataset to iden
 
 ## Author
 Pranab Chakma
+
