@@ -15,6 +15,3 @@ This project performs Exploratory Data Analysis (EDA) on a sales dataset to iden
 - Distribution of Sales and Profit
 - Regional and Product Category performance
 - Impact of Discount on Profit
-
-## Dataset
-[File](./sales_data.csv.csv)
