@@ -17,8 +17,5 @@ This project performs Exploratory Data Analysis (EDA) on a sales dataset to iden
 - Impact of Discount on Profit
 
 ## Dataset
-- File: sales_data.csv
-
-## Author
-Pranab Chakma
+[File](./sales_data.csv.csv)
 
